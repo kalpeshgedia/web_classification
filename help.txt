@@ -1,0 +1,4 @@
+Web Page Classification
+
+Classification of a Web page content is important for search engines to identify web pages that are relevant to a particular topic. 
+In this project, you will build a web page classifier that achieves just that.
